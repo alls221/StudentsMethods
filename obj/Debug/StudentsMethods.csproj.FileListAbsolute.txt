@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\StudentsMethods\bin\Debug\StudentsMethods.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\StudentsMethods\bin\Debug\StudentsMethods.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\StudentsMethods\bin\Debug\StudentsMethods.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\StudentsMethods\obj\Debug\StudentsMethods.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\StudentsMethods\obj\Debug\StudentsMethods.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\StudentsMethods\obj\Debug\StudentsMethods.pdb
